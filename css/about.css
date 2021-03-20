@@ -96,7 +96,7 @@ header nav a{
 
 .top-content{
 	margin-bottom: 20px;
-	border-bottom: 1px dashed black;
+	border-bottom: 2px dashed 
 }
 
 .top-content .text-container{
@@ -109,4 +109,44 @@ header nav a{
 }
 .img-container2{
 	display:flex;
+}
+
+.img-content{
+	margin: 0 10px 30px 10px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	border-bottom: dashed 2px;
+}
+
+.button{
+	padding: 15px;
+	border-radius: 20px;
+	margin-top: 20px;
+	width: 130px;
+	font-size: 15px;
+	font-weight: bold;
+
+}
+
+footer {
+    width: 100%;
+    background: black;
+}
+
+footer nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+}
+
+footer nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.bottom-content{
+	padding-bottom: 
 }
