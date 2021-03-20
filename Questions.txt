@@ -1,0 +1,22 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML elements are elements that clearly describes what the content is inside of the element.
+An example would be <title> This is a title </title>. The title tag clearly describes its use.
+
+Name two big differences between display: block; and display: inline;.
+display block will display elements on the windo Vertically. Display: inline will display elemnts on a window
+horizontally. A block element will always take up the full width that is there. An inline will not. It will 
+take only the width it needs to display the content.
+
+What are the 4 areas of the box model?
+1.content
+2.padding
+3.border
+4.margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+it will center any child elements that are inside of the parent element using the display: flex property/value no matter the content.
+
+
+Explain why git is valuable to a team of developers.
+you can work on each others code and see what changes were made to that code by analyzing the commits made by other devs.
+You have a arsenal of options for peopel to collaborate review and comment on developers code as long as they have access to the repo.
